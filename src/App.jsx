@@ -1,4 +1,4 @@
-import './app.css'
+import './App.css'
 function App({emprecords}) {
   const employeeDetail= [];
   emprecords.slice(0,11).forEach(emp => {
